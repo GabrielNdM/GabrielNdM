@@ -3,6 +3,8 @@
  <a href="https://www.instagram.com/g.negrii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href="https://open.spotify.com/user/tkvlp1zbwjntnqb2abw73et7d?si=b17c80708bd74aff" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
    <a href="https://steamcommunity.com/profiles/76561198134917089" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+   <a href="https://www.last.fm/user/NegriNey" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
+   <a href="http://op.gg/summoners/br/Psicopássaro" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a>
 #
 
 ###### Criador Inefável,
