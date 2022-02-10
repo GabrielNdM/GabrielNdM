@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+#
 ##### Criador Inefável,
 ##### Vós que sois a fonte verdadeira da luz e da ciência,
 ##### derramai sobre as trevas da minha inteligência um raio da vossa claridade.
@@ -28,6 +28,8 @@
 ##### uma boa conduta para Vos agradar,
 ##### confiança para esperar em Vós,
 ##### constância para fazer a Vossa vontade.
+#
+<img align="right" alt="negri" height="250" src="https://cdn.discordapp.com/attachments/722101626537508925/941414953544462366/457566_rtaLOYkM.png">
 
 ##### Orientai, meu Deus, a minha vida;
 ##### concedei-me saber o que me pedis
