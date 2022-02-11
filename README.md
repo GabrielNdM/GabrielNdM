@@ -6,5 +6,5 @@
    <a href="https://www.last.fm/user/NegriNey" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
    <a href="http://op.gg/summoners/br/Psicopássaro" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a>
 #
-hello
+hello my name is gabriel, i'm a programming student and i think that's it for now :)
 <img align="right" alt="negri" height="250" src="https://cdn.discordapp.com/attachments/722101626537508925/941414953544462366/457566_rtaLOYkM.png">
